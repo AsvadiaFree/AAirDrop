@@ -1,0 +1,8 @@
+Play: "Vous venez de lancer un airdrop !"
+PlayBroadcast: "De nouveaux airdrop viennent d'être lancé !"
+AddLocation: "Vous venez d'ajouter une location !"
+GetItem: "Les données de votre item est stocker dans le fichier config.yml !"
+TakeChest: "Vous venez de récupérer le contenu du airdrop !"
+PlayerHaveTakeChest: "Le joueur %player_name% viens de récupérer le contenu du airdrop !"
+
+

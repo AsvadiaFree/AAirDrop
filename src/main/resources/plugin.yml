@@ -1,0 +1,8 @@
+name: AAirDrop
+main: fr.asvadia.aairdrop.Main
+version: 1.0
+commands:
+  aairdrop:
+    aliases:
+      - "alargage"
+      - "airdrop"
